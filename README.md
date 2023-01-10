@@ -1,3 +1,4 @@
+![logo](https://github.com/obaidahmadzai/obaidahmadzai/blob/main/programming-script-text-coding-word.jpg)
 <h1 align="center">Hi 👋, I'm Obaidullah Ahmadzai</h1>
 <h3 align="center">A passionate Full Stack Developer from Afghanistan</h3>
 
